@@ -1,0 +1,10 @@
+{
+  "description": "My portfolio on Netlify",
+  "owner": {
+    "username": "muazaoski",
+    "email": "muazsag@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://muazaoski.netlify.app/"
+  }
+}
